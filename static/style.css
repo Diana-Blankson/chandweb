@@ -1,11 +1,34 @@
 header h1{
-   color:lightblue;
+   color:brown;
+}
+header{background-color:lightblue;
 }
 
-body section h4 span{
+body section span h3{
      color:brown;
 }
 
 section h2 {
      color:lightblue;
 }
+section p{
+	width: 100%;}
+
+section input h2{
+	margin: auto;
+	display: block;
+        width: 300px;
+        }
+footer{
+       margin:auto;
+       display:block;
+       text-align:center;
+       }
+footer{background-color:lightblue;
+       }
+header a{
+          margin:auto;
+          text-align:right;
+        }
+h4{background-color:lightblue;
+  }
